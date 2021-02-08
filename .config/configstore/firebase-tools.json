@@ -1,0 +1,44 @@
+{
+	"analytics-uuid": "9a77e07f-aa5b-4f76-a8bd-a8a8ba8f021d",
+	"motd": {
+		"cloudBuildErrorAfter": 1594252800000,
+		"cloudBuildWarnAfter": 1590019200000,
+		"defaultNode10After": 1594252800000,
+		"minVersion": "3.0.5",
+		"node8DeploysDisabledAfter": 1613390400000,
+		"node8RuntimeDisabledAfter": 1615809600000,
+		"node8WarnAfter": 1600128000000,
+		"fetched": 1611825977964
+	},
+	"usage": true,
+	"user": {
+		"iss": "accounts.google.com",
+		"azp": "563584335869-fgrhgmd47bqnekij5i8b5pr03ho849e6.apps.googleusercontent.com",
+		"aud": "563584335869-fgrhgmd47bqnekij5i8b5pr03ho849e6.apps.googleusercontent.com",
+		"sub": "101578174537776721972",
+		"email": "hlopezcarballo@gmail.com",
+		"email_verified": true,
+		"at_hash": "-zAU5MFbLL3EnbIbMwXcnw",
+		"iat": 1611825993,
+		"exp": 1611829593
+	},
+	"tokens": {
+		"expires_at": 1611829925567,
+		"refresh_token": "1//0fEbyQgQYK-zUCgYIARAAGA8SNwF-L9Irz-0zaaxpVOZjRRtsv0THuCzZYU8wqZQtp_QCSXCw7jSm_H0DUgWHHqnHbAr96AP1jEA",
+		"scopes": [
+			"email",
+			"https://www.googleapis.com/auth/cloud-platform",
+			"https://www.googleapis.com/auth/cloudplatformprojects.readonly",
+			"https://www.googleapis.com/auth/firebase",
+			"openid"
+		],
+		"access_token": "ya29.a0AfH6SMD4keZafiMo5dOkIDtqPFHHig0GDDr1gGHJIGjmQZ2Ykyeq4r48DYhDBqgv6ddkI1yfJ6V3U5cZOdtxXQ4543q0hmiWJ9qsDxsKKeCoo9qjE3MKSp5wBrVJaAUtfa6ZCpe6teWb73QOHNMDFsGCIjM7pRrxA6Vkp5V0K_ky5iQ-jog",
+		"expires_in": 3599,
+		"scope": "https://www.googleapis.com/auth/userinfo.email https://www.googleapis.com/auth/cloud-platform https://www.googleapis.com/auth/firebase openid https://www.googleapis.com/auth/cloudplatformprojects.readonly",
+		"token_type": "Bearer",
+		"id_token": "eyJhbGciOiJSUzI1NiIsImtpZCI6ImVlYTFiMWY0MjgwN2E4Y2MxMzZhMDNhM2MxNmQyOWRiODI5NmRhZjAiLCJ0eXAiOiJKV1QifQ.eyJpc3MiOiJhY2NvdW50cy5nb29nbGUuY29tIiwiYXpwIjoiNTYzNTg0MzM1ODY5LWZncmhnbWQ0N2JxbmVraWo1aThiNXByMDNobzg0OWU2LmFwcHMuZ29vZ2xldXNlcmNvbnRlbnQuY29tIiwiYXVkIjoiNTYzNTg0MzM1ODY5LWZncmhnbWQ0N2JxbmVraWo1aThiNXByMDNobzg0OWU2LmFwcHMuZ29vZ2xldXNlcmNvbnRlbnQuY29tIiwic3ViIjoiMTAxNTc4MTc0NTM3Nzc2NzIxOTcyIiwiZW1haWwiOiJobG9wZXpjYXJiYWxsb0BnbWFpbC5jb20iLCJlbWFpbF92ZXJpZmllZCI6dHJ1ZSwiYXRfaGFzaCI6ImF2YU5laXR5NEdPTUd6M0p0OXVuQlEiLCJpYXQiOjE2MTE4MjYzMjYsImV4cCI6MTYxMTgyOTkyNn0.ee1rhlapQybMh6i4SSWZCVBhqHxyvqLhYIR-LTJBrJT1s6Iep93fUJcKnIOPdqcskVoTm3feNpegNhdXRRNALMqoxQg6p47qWik4UKPZhwPZgh0obW7QtUfkci7Rf4J_JVgm3UP6WaZqm_yf3yLRYOKTVbb3wxnL29VB6tCUckhr8VrxeWr_QcPxw5j1NsVRKg3hQZJTrwq0YeBgOsKUe3VlyT3HSyb6y6AsoWhr2GmKyPavhBDVdGfCroUpQfQl7AtNcsWEbwJoI0z5XaKHiu2fmcUPiKocmg9Xz6e6zAGJPs514AcKkG7414V71HGtfLZ96VfNm78YKzFrT9YT0w"
+	},
+	"activeProjects": {
+		"/home/heclopz/Programacion/Cursos/platzi/react_js/platzi-badges": "platzi-badges-30ced"
+	}
+}
