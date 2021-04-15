@@ -18,7 +18,8 @@ zsh_custom_dir=~/.oh-my-zsh/custom
 #==============
 ln -sf $dotfiles_dir/.vimrc ~/.vimrc
 ln -sf $dotfiles_dir/.zshrc ~/.zshrc
-ln -sf $dotfiles_dir/.config ~/.config
+ln -sf $dotfiles_dir/.config/coc ~/.config/coc
+ln -sf $dotfiles_dir/.config/configstore ~/.config/configstore
 ln -sf $dotfiles_dir/.gitconfig ~/.gitconfig
 ln -sf $dotfiles_dir/.npmrc ~/.npmrc
 ln -sf $dotfiles_dir/zsh_custom/alias.zsh $zsh_custom_dir/alias.zsh
